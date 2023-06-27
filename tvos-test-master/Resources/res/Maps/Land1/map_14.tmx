@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="26" height="20" tilewidth="59" tileheight="59">
+ <tileset firstgid="1" name="itemmap" tilewidth="59" tileheight="59">
+  <image source="tileset2.png" trans="ff00ff" width="354" height="354"/>
+ </tileset>
+ <layer name="BackGround" width="26" height="20">
+  <data encoding="base64" compression="zlib">
+   eJy9lYEKwyAMRBWxMCob3f9/7AgovR2n1boZOFpE+y4m2uCcC4tk4UGvPB6zbGyn50ZK7gwPayNwdqF/cLzQLIc9Fw7OGd33NMGJ4BXzqEWA99a+KU5hreBwfXAe1/NKtfpccbgXNvie8qB8IusOB6PV1+yjh2OeEswrT+5LJTzL7CMKtTi8/p3X2P3zdH01VvVmDt857NHmHJmP98JsPorj3Xed7nA4nwepxlG9M5KP6rtWoMcejjoPeBcrDzh+/Igzmk+JVf9r0wcSTQei
+  </data>
+ </layer>
+ <objectgroup name="RobotCharacter">
+  <object name="Player" x="59" y="59" width="40" height="40"/>
+ </objectgroup>
+ <objectgroup name="EnemyCharacter">
+  <object name="Shipper" type="Shipper" x="718.072" y="305.072" width="40" height="40"/>
+  <object name="Hammer" type="Hammer" x="604.75" y="958.75" width="40" height="40"/>
+  <object name="Shipper" type="Shipper" x="128.072" y="242.478" width="40" height="40"/>
+  <object name="Shipper" type="Shipper" x="128.433" y="420.194" width="40" height="40"/>
+  <object name="Shipper" type="Shipper" x="122.678" y="539.633" width="40" height="40"/>
+  <object name="Shipper" type="Shipper" x="722.388" y="534.239" width="40" height="40"/>
+  <object name="Hammer" type="Hammer" x="958.75" y="1062" width="40" height="40"/>
+  <object name="Hammer" type="Hammer" x="781.75" y="1076.75" width="40" height="40"/>
+  <object name="Shipper" type="Shipper" x="1135.75" y="73.75" width="40" height="40"/>
+  <object name="Shipper" type="Shipper" x="1003" y="368.75" width="40" height="40"/>
+  <object name="Shipper" type="Shipper" x="1180" y="236" width="40" height="40"/>
+  <object name="Shipper" type="Shipper" x="1312.75" y="722.75" width="40" height="40"/>
+  <object name="Shipper" type="Shipper" x="1430.75" y="708" width="40" height="40"/>
+ </objectgroup>
+</map>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="20" tilewidth="59" tileheight="59">
+ <tileset firstgid="1" name="itemmap" tilewidth="59" tileheight="59">
+  <image source="tileset2.png" trans="ff00ff" width="354" height="354"/>
+ </tileset>
+ <layer name="BackGround" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzNktEKgCAMRReiT0H4/z9bgYPL2m1pEg3ug3I8c2gSkTQ5C0k9UkzqDY8+rHO9OS7NRs5YH/bC88rhHrKRz97H85WHPuTXFuV0bZ09vgxcHvCN/I0vfRg2r+U8nxf2HtF/jmqU8+Z4y+WWv3Iz52XVy7H3703UF+epcp2P3W9mdnHuA9w=
+  </data>
+ </layer>
+ <objectgroup name="RobotCharacter">
+  <object name="Player" type="Player" x="538.52" y="1064.85" width="41.4422" height="41.4422"/>
+ </objectgroup>
+ <objectgroup name="EnemyCharacter">
+  <object name="Shipper" type="Shipper" x="125.566" y="541.587" width="41.4422" height="41.4422"/>
+  <object name="Shipper" type="Shipper" x="1011.27" y="540.185" width="41.4422" height="41.4422"/>
+  <object name="Roller" type="Roller" x="66.9704" y="952.222" width="41.4422" height="41.4422"/>
+  <object name="Roller" type="Roller" x="1069.85" y="655.776" width="41.4422" height="41.4422"/>
+  <object name="Roller" type="Roller" x="480.044" y="655.682" width="41.4422" height="41.4422"/>
+  <object name="Roller" type="Roller" x="657.451" y="951.756" width="41.4422" height="41.4422"/>
+  <object name="Hammer" type="Hammer" x="775.601" y="1070.78" width="41.4422" height="41.4422"/>
+  <object name="Hammer" type="Hammer" x="66.5177" y="1074.84" width="41.4422" height="41.4422"/>
+ </objectgroup>
+</map>

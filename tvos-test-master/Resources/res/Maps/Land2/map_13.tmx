@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="15" tilewidth="59" tileheight="59">
+ <tileset firstgid="1" name="itemmap" tilewidth="59" tileheight="59">
+  <image source="tileset2.png" trans="ff00ff" width="354" height="354"/>
+ </tileset>
+ <layer name="BackGround" width="20" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjZmBgYKYyBgFWJMxDJh9mHro4ufSoeaPmjZpHunnk8qldroAwAKfiB/Q=
+  </data>
+ </layer>
+ <objectgroup name="RobotCharacter">
+  <object name="Player" type="Player" x="62.4457" y="63.9881" width="40" height="40"/>
+ </objectgroup>
+ <objectgroup name="EnemyCharacter"/>
+</map>

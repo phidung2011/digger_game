@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="25" height="25" tilewidth="59" tileheight="59">
+ <tileset firstgid="1" name="itemmap" tilewidth="59" tileheight="59">
+  <image source="tileset2.png" trans="ff00ff" width="354" height="354"/>
+ </tileset>
+ <layer name="BackGround" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eJxjZmBgYKYDpiUYCDt4qIjx2UENMJjsoCR8SLGDXLcPVjtIDR9y7SDF7aN2DA87aJ2uiAGD2Q5al1eUgMFgB63rQVoAetpBawwAj34H4Q==
+  </data>
+ </layer>
+ <objectgroup name="RobotCharacter">
+  <object name="Player" x="716.132" y="718.766" width="40" height="40"/>
+ </objectgroup>
+ <objectgroup name="EnemyCharacter">
+  <object name="Hammer" type="Hammer" x="1011.45" y="1013.02" width="40" height="40"/>
+  <object name="Shipper" type="Shipper" x="716.761" y="832.73" width="40" height="40"/>
+  <object name="Hammer" type="Hammer" x="422.423" y="1012.65" width="40" height="40"/>
+  <object name="Hammer" type="Hammer" x="1012.14" y="420.246" width="40" height="40"/>
+  <object name="Hammer" type="Hammer" x="422.698" y="421.361" width="40" height="40"/>
+  <object name="Roller" type="Roller" x="1188.03" y="242.983" width="40" height="40"/>
+  <object name="Roller" type="Roller" x="1189.34" y="1184.37" width="40" height="40"/>
+  <object name="Roller" type="Roller" x="250.673" y="1186.85" width="40" height="40"/>
+  <object name="Roller" type="Roller" x="248.19" y="240.74" width="40" height="40"/>
+  <object name="Roller" type="Roller" x="717.522" y="240.74" width="40" height="40"/>
+  <object name="Roller" type="Roller" x="717.522" y="1184.37" width="40" height="40"/>
+  <object name="Tanker" type="Tanker" x="1362.71" y="68.4301" width="40" height="40"/>
+  <object name="Tanker" type="Tanker" x="1365.65" y="1363.16" width="40" height="40"/>
+  <object name="Tanker" type="Tanker" x="69.3966" y="1370.61" width="40" height="40"/>
+  <object name="Tanker" type="Tanker" x="64.4301" y="71.8798" width="40" height="40"/>
+  <object name="Tanker" type="Tanker" x="715.038" y="124.028" width="40" height="40"/>
+  <object name="Tanker" type="Tanker" x="124.028" y="720.005" width="40" height="40"/>
+  <object name="Tanker" type="Tanker" x="717.522" y="1308.53" width="40" height="40"/>
+  <object name="Tanker" type="Tanker" x="1306.05" y="717.522" width="40" height="40"/>
+  <object name="Roller" type="Roller" x="240.74" y="720.005" width="40" height="40"/>
+  <object name="Roller" type="Roller" x="1189.34" y="720.005" width="40" height="40"/>
+ </objectgroup>
+</map>

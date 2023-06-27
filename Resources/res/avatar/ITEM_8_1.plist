@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>ITEM_8_1/0/image0000.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{59,59}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{59,59}}</string>
+                <key>sourceSize</key>
+                <string>{59,59}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>ITEM_8_1.pvr.ccz</string>
+            <key>size</key>
+            <string>{64,63}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:b9f25ddd4959376b29f48319795bda0a:479828fe3a1d7803067330fc0d4c06f5:2ed78b4384fa7d451368f25392ce4490$</string>
+            <key>textureFileName</key>
+            <string>ITEM_8_1.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>

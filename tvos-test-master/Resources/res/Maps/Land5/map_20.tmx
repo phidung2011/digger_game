@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="25" height="25" tilewidth="59" tileheight="59">
+ <tileset firstgid="1" name="itemmap" tilewidth="59" tileheight="59">
+  <image source="tileset2.png" trans="ff00ff" width="354" height="354"/>
+ </tileset>
+ <layer name="BackGround" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eJy9luEKgzAMhDOKxVG7sf3Y+z+qFhJ2XDuaDq1wVCW5r1HbGEQkTNCNdD+U9fx9aJPvweclJukYVVnvJWII+C8qY6JvIIZ5GQNzkWExLf/UYWD9hbGShzFWvWZ/D8NyI+SiB9aRpPYueg3UsVIuMjaHfjF6CpTjOf6Jn8XAmrzryBPPz2p0fp75Yx3PixjmW/SRup4zxofMrQP5ZzJsnPldjc5vJH7mGrx6v+I+iL0tdxi5kROlfm+4H0ep93fv3m7+2CeYwf1y0eseg+eHvZCflfV89PcwuE+1em0kWVyL0fovsVrQn/vg1doBMTMIVQ==
+  </data>
+ </layer>
+ <objectgroup name="RobotCharacter">
+  <object name="Player" type="Player" x="124.436" y="123.43" width="41.4422" height="41.4422"/>
+ </objectgroup>
+ <objectgroup name="EnemyCharacter">
+  <object name="Shipper" type="Shipper" x="68.6982" y="420.776" width="41.4422" height="41.4422"/>
+  <object name="Tanker" type="Tanker" x="890.86" y="777.076" width="41.4422" height="41.4422"/>
+  <object name="Tanker" type="Tanker" x="181.62" y="834.577" width="41.4422" height="41.4422"/>
+  <object name="Tanker" type="Tanker" x="1129.65" y="594.501" width="41.4422" height="41.4422"/>
+  <object name="Hammer" type="Hammer" x="778.697" y="356.068" width="41.4422" height="41.4422"/>
+  <object name="Hammer" type="Hammer" x="1359.34" y="424.999" width="41.4422" height="41.4422"/>
+  <object name="Hammer" type="Hammer" x="829.388" y="481.036" width="41.4422" height="41.4422"/>
+  <object name="Shipper" type="Shipper" x="652.886" y="483.457" width="41.4422" height="41.4422"/>
+  <object name="Shipper" type="Shipper" x="479.279" y="418.432" width="41.4422" height="41.4422"/>
+  <object name="Roller" type="Roller" x="66.5805" y="1005.73" width="41.4422" height="41.4422"/>
+  <object name="Tracker" type="Tracker" x="1185.63" y="1008.38" width="41.4422" height="41.4422"/>
+  <object name="Tracker" type="Tracker" x="1071.87" y="1005.09" width="41.4422" height="41.4422"/>
+  <object name="Tracker" type="Tracker" x="950.178" y="1005.73" width="41.4422" height="41.4422"/>
+  <object name="Roller" type="Roller" x="421.078" y="952.824" width="41.4422" height="41.4422"/>
+  <object name="Roller" type="Roller" x="656.528" y="1071.87" width="41.4422" height="41.4422"/>
+ </objectgroup>
+</map>

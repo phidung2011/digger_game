@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="25" height="20" tilewidth="59" tileheight="59">
+ <tileset firstgid="1" name="itemmap" tilewidth="59" tileheight="59">
+  <image source="tileset2.png" trans="ff00ff" width="354" height="354"/>
+ </tileset>
+ <layer name="BackGround" width="25" height="20">
+  <data encoding="base64" compression="zlib">
+   eJy9VAEKgzAMTCgVR+cG2///OgUD53mNjjELh5Cmd7mktZhZuQB1xrCiAtoMX+MO+wXyY8/pPOYWkesrv9IYkjOD6XoK5d6Sc55o9HyFRsQs6Wd4c6or/CoNTzS8g+ArnRjyLX2aINaERhVQGiPUq2rKNDIU4H/MeHZ0UaPXq97iOkaotdneH/qIWOyb5XegCm/KM8+PffBsG/CHRtxRNcPQQC72gRpv0uB32QSUxnTSB7+7o16ZbXt1BnfCNxrYS3y3fC94hUdeqlfxL8Ovqi14uadYL2owB/M34mHv7IPf9ILJ9jNVPfrFx8u2czjzL+F1NI9/4wOTmAci
+  </data>
+ </layer>
+ <objectgroup name="RobotCharacter">
+  <object name="Player" x="596.526" y="951.355" width="40" height="40"/>
+ </objectgroup>
+ <objectgroup name="EnemyCharacter">
+  <object name="Hammer" type="Hammer" x="186.57" y="480.96" width="40" height="40"/>
+  <object name="Hammer" type="Hammer" x="830.422" y="840.076" width="40" height="40"/>
+  <object name="Hammer" type="Hammer" x="67.1945" y="898.657" width="40" height="40"/>
+  <object name="Shipper" type="Shipper" x="717.171" y="478.28" width="40" height="40"/>
+  <object name="Hammer" type="Hammer" x="1189.14" y="837.672" width="40" height="40"/>
+ </objectgroup>
+</map>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="25" height="25" tilewidth="59" tileheight="59">
+ <tileset firstgid="1" name="itemmap" tilewidth="59" tileheight="59">
+  <image source="tileset2.png" trans="ff00ff" width="354" height="354"/>
+ </tileset>
+ <layer name="BackGround" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eJy9VV0LwyAMjIilRey2l/3/n7oJCTvOaHUPDQTqVy6XS7YoIvEGn7XU8RqjfD2rB91/EEZQzxPfgeJF2NvgTnIwVq3GPAjD4hiOh7FS36B5R8gfz5hHBowD8ijwjfuMgd8zGFnPN7hrXte7nqHmWJsRRiCMld7c9R33ENf2dHLifho5Yph5vWtrrgHWBh0t0BvEsBxsD+9jDa/6bB/wMG0Rg3nwPGZp65OkrwdzQx5J8/N61uulKz2E7lzVh3mM9BBp9dikrYtXq395YLye2SyiBjzno9+rLL8emXXm5PHAWvXujzhVDk8Z68Gas5bYq6P/lVkeIq2Ws8YztcIDc5qZ+Sx9DIH1Pzzw/cvBQC+yrgefFcLgHN6ds5n868ycEOMO/wDd4gbl
+  </data>
+ </layer>
+ <objectgroup name="RobotCharacter">
+  <object name="Player" x="712.988" y="717.412" width="40" height="40"/>
+ </objectgroup>
+ <objectgroup name="EnemyCharacter">
+  <object name="Shipper" type="Shipper" x="1361.46" y="719.04" width="40" height="40"/>
+  <object name="Hammer" type="Hammer" x="954.932" y="537.254" width="40" height="40"/>
+  <object name="Shipper" type="Shipper" x="1250.16" y="473.662" width="40" height="40"/>
+  <object name="Hammer" type="Hammer" x="654.422" y="893.727" width="40" height="40"/>
+  <object name="Shipper" type="Shipper" x="1305.3" y="1069" width="40" height="40"/>
+  <object name="Shipper" type="Shipper" x="303.237" y="606.479" width="40" height="40"/>
+  <object name="Roller" type="Roller" x="184.01" y="600.322" width="40" height="40"/>
+  <object name="Roller" type="Roller" x="65.9534" y="1129.06" width="40" height="40"/>
+  <object name="Roller" type="Roller" x="778.462" y="1368.83" width="40" height="40"/>
+  <object name="Roller" type="Roller" x="887.035" y="1248.94" width="40" height="40"/>
+  <object name="Roller" type="Roller" x="186.371" y="181.884" width="40" height="40"/>
+  <object name="Roller" type="Roller" x="65.24" y="529.574" width="40" height="40"/>
+ </objectgroup>
+</map>

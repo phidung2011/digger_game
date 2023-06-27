@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="25" height="25" tilewidth="59" tileheight="59">
+ <tileset firstgid="1" name="itemmap" tilewidth="59" tileheight="59">
+  <image source="tileset2.png" trans="ff00ff" width="354" height="354"/>
+ </tileset>
+ <layer name="BackGround" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eJy9VYsKwyAMtJRKi3Zj//+zq5DA7cjDQlngUOvjvMSkayll/QOGLRc2wXHhLXNVsExA96Mph7XucDgOaSuNB5pA74wcfE/lseZWmWvS9hscjc5q9G30T4ej0F7LV7oH78wcqM3jePKNRDpORwfq1BhvhoZMB4M5WsCxwJmZr9iQ4wMcenfVzjHfZbw7HJkOy/883wnMgW/YigeD5y3DtZ6OyNQ3WR15OWchB+rG/pM1MdKBOYl5WctvPfP2z+jgWsp+Qo5O7awOzEHLZjjwHVpjD7gm4+C3yob+8OpLFg+tC8jB+YWx1dwf2G9yVEcH5zX+lzBPdS22EQe/s8hm46EcluasfmN/JuYWMh1RLXvy3xjhC/g6CGE=
+  </data>
+ </layer>
+ <objectgroup name="RobotCharacter">
+  <object name="Player" type="Player" x="62.4457" y="63.9881" width="40" height="40"/>
+ </objectgroup>
+ <objectgroup name="EnemyCharacter">
+  <object name="Shipper" type="Shipper" x="1192.72" y="479.814" width="40" height="40"/>
+  <object name="Tracker" type="Tracker" x="479.349" y="1071.36" width="40" height="40"/>
+  <object name="Shipper" type="Shipper" x="722.272" y="952.854" width="40" height="40"/>
+  <object name="Hammer" type="Hammer" x="721.568" y="654.08" width="40" height="40"/>
+  <object name="Shipper" type="Shipper" x="1363.62" y="600.823" width="40" height="40"/>
+  <object name="Tracker" type="Tracker" x="1250.58" y="1129.7" width="40" height="40"/>
+  <object name="Tracker" type="Tracker" x="1128.5" y="834.855" width="40" height="40"/>
+  <object name="Hammer" type="Hammer" x="1362.47" y="75.515" width="40" height="40"/>
+  <object name="Hammer" type="Hammer" x="770.772" y="1366.99" width="40" height="40"/>
+  <object name="Hammer" type="Hammer" x="1014.44" y="595.302" width="40" height="40"/>
+  <object name="Tracker" type="Tracker" x="1364.12" y="1076.13" width="40" height="40"/>
+  <object name="Hammer" type="Hammer" x="71.1195" y="836.234" width="40" height="40"/>
+  <object name="Hammer" type="Hammer" x="418.241" y="949.048" width="40" height="40"/>
+  <object name="Hammer" type="Hammer" x="247.573" y="720.526" width="40" height="40"/>
+  <object name="Hammer" type="Hammer" x="241.788" y="834.787" width="40" height="40"/>
+ </objectgroup>
+</map>

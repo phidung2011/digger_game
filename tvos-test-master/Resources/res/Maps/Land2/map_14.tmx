@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="25" height="25" tilewidth="59" tileheight="59">
+ <tileset firstgid="1" name="itemmap" tilewidth="59" tileheight="59">
+  <image source="tileset2.png" trans="ff00ff" width="354" height="354"/>
+ </tileset>
+ <layer name="BackGround" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eJy9lgEKwjAMRVvGZKNTUcH7H9UVGnj8pXETWSBsbWNe2qSZQ0ppOEGr5KZzez5WvWC+6rXNmS5pK0uzTc2XMYr4yvCTsT5C9zAyGKNwGKsxnlifwPDUGEUY5HgM3WcR1XVl7M3VUeFZ9YSMKOZoTxqrxhzxI2FtkFHwtPdf7wLz/20fPAfb95i2Z9Qb78mHCu/Skd94tePl2OxHjN+r3le9ib9efTIPEeNf+4jsmQ+vdnUtyscv9cS+Oie/l2hdM546V/vuqz11P7S3PlQcvtYpa0D7/EXWzX4KGN5Z8V6qTZb13jdCGdpH6GOBTWpjj+HFqr7YRzyGzUUMjfUsRq9X8d1jMEczxlabHqMnZDAfjOHaiS+qXdYNGSbK6PWJM/5XVf0A+woImQ==
+  </data>
+ </layer>
+ <objectgroup name="RobotCharacter">
+  <object name="Player" type="Player" x="66.6974" y="63.9881" width="40" height="40"/>
+ </objectgroup>
+ <objectgroup name="EnemyCharacter">
+  <object name="Shipper" type="Shipper" x="775.825" y="1190.15" width="40" height="40"/>
+  <object name="Roller" type="Roller" x="952.365" y="68.7956" width="40" height="40"/>
+  <object name="Hammer" type="Hammer" x="1014.25" y="600.549" width="40" height="40"/>
+  <object name="Hammer" type="Hammer" x="1303.32" y="717.928" width="40" height="40"/>
+  <object name="Shipper" type="Shipper" x="658.834" y="1364.05" width="40" height="40"/>
+  <object name="Roller" type="Roller" x="301.617" y="1009.48" width="40" height="40"/>
+  <object name="Shipper" type="Shipper" x="1193.99" y="1073.73" width="40" height="40"/>
+  <object name="Hammer" type="Hammer" x="1070.78" y="302.68" width="40" height="40"/>
+  <object name="Shipper" type="Shipper" x="1365.99" y="1066.23" width="40" height="40"/>
+  <object name="Hammer" type="Hammer" x="656.34" y="419.972" width="40" height="40"/>
+  <object name="Hammer" type="Hammer" x="134.451" y="360.707" width="40" height="40"/>
+  <object name="Hammer" type="Hammer" x="477.223" y="599.157" width="40" height="40"/>
+  <object name="Hammer" type="Hammer" x="301.095" y="776.64" width="40" height="40"/>
+  <object name="Hammer" type="Hammer" x="183.224" y="479.932" width="40" height="40"/>
+  <object name="Hammer" type="Hammer" x="69.4188" y="836.253" width="40" height="40"/>
+  <object name="Shipper" type="Shipper" x="954.123" y="1309.09" width="40" height="40"/>
+  <object name="Roller" type="Roller" x="481.287" y="1364.64" width="40" height="40"/>
+ </objectgroup>
+</map>

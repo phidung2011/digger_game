@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="35" tilewidth="59" tileheight="59">
+ <tileset firstgid="1" name="itemmap" tilewidth="59" tileheight="59">
+  <image source="tileset2.png" trans="ff00ff" width="354" height="354"/>
+ </tileset>
+ <layer name="BackGround" width="20" height="35">
+  <data encoding="base64" compression="zlib">
+   eJzNVtEKhDAM65C7l1OY/v/HiqBQStamcycW+nANSbM4PCcRmQb3T/Xxu5oZ06L0dPV6snpfuV/s7vnsjFe0awPzLeBc2Kz6whbAWQKOxj4GW4HeGnCiXUeXs21Gnj9brbmHRbvs3MOQns1Czz2MzY/Ry+bnnRdxIn/sLqQXnemt+bX0EOfp+8d4z+bX4y/yMDK/nuf71P1rnSvyx3Demt/o99/I+5fB/vn/hrKowEMNOK1dxdErhD9bjJ4t9nsp0zunxwwH
+  </data>
+ </layer>
+ <objectgroup name="RobotCharacter">
+  <object name="Player" type="Player" x="121.579" y="126.842" width="41.4422" height="41.4422"/>
+ </objectgroup>
+ <objectgroup name="EnemyCharacter">
+  <object name="Roller" type="Roller" x="419.576" y="540.69" width="41.4422" height="41.4422"/>
+  <object name="Roller" type="Roller" x="717.244" y="540.025" width="41.4422" height="41.4422"/>
+  <object name="Roller" type="Roller" x="421.732" y="1125.23" width="41.4422" height="41.4422"/>
+  <object name="Roller" type="Roller" x="709.233" y="1127.92" width="41.4422" height="41.4422"/>
+  <object name="Roller" type="Roller" x="425.451" y="1721.72" width="41.4422" height="41.4422"/>
+  <object name="Roller" type="Roller" x="716.139" y="1721.72" width="41.4422" height="41.4422"/>
+  <object name="Tanker" type="Tanker" x="832.752" y="300.388" width="41.4422" height="41.4422"/>
+  <object name="Tanker" type="Tanker" x="1067.67" y="300.388" width="41.4422" height="41.4422"/>
+  <object name="Tanker" type="Tanker" x="832.752" y="1956.63" width="41.4422" height="41.4422"/>
+  <object name="Tanker" type="Tanker" x="1065.98" y="1956.63" width="41.4422" height="41.4422"/>
+  <object name="Tanker" type="Tanker" x="836.132" y="776.98" width="41.4422" height="41.4422"/>
+  <object name="Tanker" type="Tanker" x="1064.29" y="776.98" width="41.4422" height="41.4422"/>
+  <object name="Tanker" type="Tanker" x="831.062" y="1253.57" width="41.4422" height="41.4422"/>
+  <object name="Tanker" type="Tanker" x="1067.67" y="1246.81" width="41.4422" height="41.4422"/>
+  <object name="Tanker" type="Tanker" x="65.4712" y="300.388" width="41.4422" height="41.4422"/>
+  <object name="Tanker" type="Tanker" x="302.078" y="307.148" width="41.4422" height="41.4422"/>
+  <object name="Tanker" type="Tanker" x="65.4712" y="773.6" width="41.4422" height="41.4422"/>
+  <object name="Tanker" type="Tanker" x="300.388" y="775.29" width="41.4422" height="41.4422"/>
+  <object name="Tanker" type="Tanker" x="70.5414" y="1243.43" width="41.4422" height="41.4422"/>
+  <object name="Tanker" type="Tanker" x="305.458" y="1250.19" width="41.4422" height="41.4422"/>
+  <object name="Tanker" type="Tanker" x="63.7812" y="1956.63" width="41.4422" height="41.4422"/>
+  <object name="Tanker" type="Tanker" x="305.458" y="1956.63" width="41.4422" height="41.4422"/>
+  <object name="Shipper" type="Shipper" x="477.842" y="1956.63" width="41.4422" height="41.4422"/>
+  <object name="Shipper" type="Shipper" x="477.842" y="423.761" width="41.4422" height="41.4422"/>
+ </objectgroup>
+</map>

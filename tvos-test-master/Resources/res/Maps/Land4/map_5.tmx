@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="30" height="20" tilewidth="59" tileheight="59">
+ <tileset firstgid="1" name="itemmap" tilewidth="59" tileheight="59">
+  <image source="tileset2.png" trans="ff00ff" width="354" height="354"/>
+ </tileset>
+ <layer name="BackGround" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzFVgEKhDAMm8jGnu3T7wQLISRdD/EsFLWLpk274d5a21/y07avD/DtQQ9et+4s8pqEu+JHxAe953gbXTmO9/1yXu+0pr6BvAPWmNe9n8UUJnTK6n3CMp0Zg3lW6h0FDPJOgUX8FM/d8MQzz4DTudLPVS0VDPL+w1b76E4toTufPYGZwMu96yLmeof9Vd9RMyD6e7ha0FwtFU2wXpw7zo3PHq4Fc3Jzks3VKt9fZsDp5eYZsRVzGqizu8qb7em7+mT7V+XP/axqwfHKefWEv/V/c/oH8zYEiw==
+  </data>
+ </layer>
+ <objectgroup name="RobotCharacter">
+  <object name="Player" type="Player" x="65.9386" y="63.9583" width="41.4422" height="41.4422"/>
+ </objectgroup>
+ <objectgroup name="EnemyCharacter">
+  <object name="Shipper" type="Shipper" x="125.566" y="541.587" width="41.4422" height="41.4422"/>
+  <object name="Shipper" type="Shipper" x="1011.27" y="540.185" width="41.4422" height="41.4422"/>
+  <object name="Roller" type="Roller" x="303.719" y="303.079" width="41.4422" height="41.4422"/>
+  <object name="Roller" type="Roller" x="1308.37" y="303.569" width="41.4422" height="41.4422"/>
+  <object name="Roller" type="Roller" x="480.044" y="655.682" width="41.4422" height="41.4422"/>
+  <object name="Roller" type="Roller" x="1425.59" y="775.653" width="41.4422" height="41.4422"/>
+  <object name="Roller" type="Roller" x="717.13" y="891.004" width="41.4422" height="41.4422"/>
+  <object name="Roller" type="Roller" x="719.443" y="303.507" width="41.4422" height="41.4422"/>
+  <object name="Shipper" type="Shipper" x="184.132" y="1010.15" width="41.4422" height="41.4422"/>
+  <object name="Shipper" type="Shipper" x="1009.15" y="1009.15" width="41.4422" height="41.4422"/>
+  <object name="Shipper" type="Shipper" x="1541.92" y="422.881" width="41.4422" height="41.4422"/>
+  <object name="Shipper" type="Shipper" x="478.61" y="128.632" width="41.4422" height="41.4422"/>
+ </objectgroup>
+</map>

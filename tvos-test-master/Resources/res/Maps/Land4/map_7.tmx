@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="25" height="25" tilewidth="59" tileheight="59">
+ <tileset firstgid="1" name="itemmap" tilewidth="59" tileheight="59">
+  <image source="tileset2.png" trans="ff00ff" width="354" height="354"/>
+ </tileset>
+ <layer name="BackGround" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eJy9Ve0KgzAMTBFlUtzAH3v/R52Cx87j0iqMBcJG83FJLq1DRAx/0F3KodOm66ZVdDx0It+W7PaFMEqcMSbKCR2MP3JV+eWaNaZ2+l2llpagX8aYqQ6eR6Xzq7VwXvznmfRqZIxsrpgt11JEe7vhMHg/SoLhZlIot+vDxbcwsrm4PsFfVg/HKYbOpZJd5z0TziO+HADD7S6Lw7jLGXp1nDuMKvZM3JsBDOyHYjB32odyrHFzByPIV3tUm/IJG3IyhsZA+W5qnjHOGC2upjjv9WvT54V5KIYTxeCz7J11GD1/cFpNDr1vzg5bpfO3wXgkOZZo3wV9SyLOnDJGxqlT7IdyxbxjNhlGkK97Q3rf2gzjzluRcep8FOOutGJcDdnss7n3/Ni3ty+/0g9P+gdZ
+  </data>
+ </layer>
+ <objectgroup name="RobotCharacter">
+  <object name="Player" type="Player" x="66.6974" y="63.9881" width="40" height="40"/>
+ </objectgroup>
+ <objectgroup name="EnemyCharacter">
+  <object name="Shipper" type="Shipper" x="362.602" y="304.092" width="40" height="40"/>
+  <object name="Tracker" type="Tracker" x="953.72" y="655.437" width="40" height="40"/>
+  <object name="Hammer" type="Hammer" x="1187.67" y="485.388" width="40" height="40"/>
+  <object name="Hammer" type="Hammer" x="1127.85" y="187.375" width="40" height="40"/>
+  <object name="Shipper" type="Shipper" x="1126.25" y="1187.92" width="40" height="40"/>
+  <object name="Shipper" type="Shipper" x="305.681" y="1071.8" width="40" height="40"/>
+  <object name="Shipper" type="Shipper" x="660.164" y="778.901" width="40" height="40"/>
+  <object name="Hammer" type="Hammer" x="895.255" y="66.3124" width="40" height="40"/>
+  <object name="Tanker" type="Tanker" x="710.613" y="1308.47" width="40" height="40"/>
+  <object name="Tracker" type="Tracker" x="1364.06" y="1190.19" width="40" height="40"/>
+  <object name="Shipper" type="Shipper" x="126.325" y="480.947" width="40" height="40"/>
+ </objectgroup>
+</map>

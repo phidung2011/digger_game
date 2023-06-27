@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="25" height="25" tilewidth="59" tileheight="59">
+ <tileset firstgid="1" name="itemmap" tilewidth="59" tileheight="59">
+  <image source="tileset2.png" trans="ff00ff" width="354" height="354"/>
+ </tileset>
+ <layer name="BackGround" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eJy9loEOgyAMREvMCEa3xf//2YWES263VlGnJBcQoY+Wgg5mNtygWlLT2NF+t3mZ+lhcwMC7R4fquKXNw3NubTCNajCW1jd3COthP3oYmRhrBYx8wI+9jLN+7IlVOsCYSM+gXccVsh/llcfYmucpk4owUM6cqZ64zuIHpGuNzslWfqgfap9jv7Y+o/FerYwUMNCu8a57X++RFzEi+1PA4DsJKhIjPIOxJ1bJzuXAljhWWQTfJvv10esf7fv+jPZD88nLe80Rzz4zes4un98kdiL7ylC/vXuDGUXGsX2eq4wrxN/aq4r3Pf+nlHG1H9irK+o7/quqPnt2CEs=
+  </data>
+ </layer>
+ <objectgroup name="RobotCharacter">
+  <object name="Player" x="64.6619" y="64.1421" width="40" height="40"/>
+ </objectgroup>
+ <objectgroup name="EnemyCharacter">
+  <object name="Roller" type="Roller" x="536.172" y="1189.24" width="40" height="40"/>
+  <object name="Shipper" type="Shipper" x="1245.1" y="184.665" width="40" height="40"/>
+  <object name="Shipper" type="Shipper" x="894.999" y="772.205" width="40" height="40"/>
+  <object name="Tracker" type="Tracker" x="243.745" y="251.428" width="40" height="40"/>
+  <object name="Tracker" type="Tracker" x="541.331" y="302.245" width="40" height="40"/>
+  <object name="Shipper" type="Shipper" x="1367.73" y="419.189" width="40" height="40"/>
+  <object name="Shipper" type="Shipper" x="1362.54" y="125.53" width="40" height="40"/>
+  <object name="Roller" type="Roller" x="1006.51" y="1310.56" width="40" height="40"/>
+  <object name="Shipper" type="Shipper" x="1248.19" y="777.817" width="40" height="40"/>
+  <object name="Shipper" type="Shipper" x="1245.59" y="598.503" width="40" height="40"/>
+  <object name="Roller" type="Roller" x="1183.22" y="1191.02" width="40" height="40"/>
+  <object name="Shipper" type="Shipper" x="660.873" y="951.933" width="40" height="40"/>
+ </objectgroup>
+</map>

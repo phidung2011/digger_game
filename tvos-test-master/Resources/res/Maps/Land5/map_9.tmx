@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="25" height="25" tilewidth="59" tileheight="59">
+ <tileset firstgid="1" name="itemmap" tilewidth="59" tileheight="59">
+  <image source="tileset2.png" trans="ff00ff" width="354" height="354"/>
+ </tileset>
+ <layer name="BackGround" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eJy9VgEKwyAMTClKi9Ky7f9/nUKOHSGpjpUFDq1Gz8SYdBWR9Q9IDblh0Zb7vS2kk/R717lF+1vDU+c7asOLOLCX0LqFxgpxZ/22epjbdf+qfXBY/VmOHKypqlMCjmzW3s0Bf8P3Qhz2Pjx7PQFHmcCvHHejEjB2mPMl52zs/3Rx7l0+/k4BLwN7Ww72D+t6e4DjFN/PomOWYzPz0GH5xg6Pw56BORDnaDmXcI7AW418xXbM+oo5AKyDRHaMxHsfUU55KMcpc++p45DreL4b7I/ID7jDq/xpwfkK0u3g+8Q9eRy2xnjCHMh/1djBccm5N6oBVvh9cBxGMuLwcmjEcQVwjPS8GBrFOtcu1FPU85HM1Fq7P2oIxwaEY8RysP/4vfMYc0R37eXHf/xXdbwBXeoK0w==
+  </data>
+ </layer>
+ <objectgroup name="RobotCharacter">
+  <object name="Player" x="177" y="118" width="40" height="40"/>
+ </objectgroup>
+ <objectgroup name="EnemyCharacter">
+  <object name="Hammer" type="Hammer" x="1127.28" y="303.348" width="40" height="40"/>
+  <object name="Hammer" type="Hammer" x="545.75" y="708" width="40" height="40"/>
+  <object name="Shipper" type="Shipper" x="486.75" y="1135.75" width="40" height="40"/>
+  <object name="Shipper" type="Shipper" x="359.494" y="1010.96" width="40" height="40"/>
+  <object name="Hammer" type="Hammer" x="1253.75" y="1253.75" width="40" height="40"/>
+  <object name="Hammer" type="Hammer" x="1357" y="1357" width="40" height="40"/>
+  <object name="Shipper" type="Shipper" x="958.75" y="1357" width="40" height="40"/>
+  <object name="Hammer" type="Hammer" x="427.75" y="531" width="40" height="40"/>
+  <object name="Hammer" type="Hammer" x="1076.75" y="1062" width="40" height="40"/>
+  <object name="Hammer" type="Hammer" x="1253.75" y="1017.75" width="40" height="40"/>
+  <object name="Hammer" type="Hammer" x="130.457" y="954.035" width="40" height="40"/>
+  <object name="Hammer" type="Hammer" x="1363" y="307.75" width="40" height="40"/>
+  <object name="Shipper" type="Shipper" x="475.186" y="303.246" width="40" height="40"/>
+  <object name="Shipper" type="Shipper" x="1066.66" y="589.812" width="40" height="40"/>
+  <object name="Shipper" type="Shipper" x="894.718" y="780.092" width="40" height="40"/>
+  <object name="Hammer" type="Hammer" x="952.031" y="482.063" width="40" height="40"/>
+  <object name="Shipper" type="Shipper" x="958.909" y="1250.06" width="40" height="40"/>
+  <object name="Shipper" type="Shipper" x="1357.81" y="1247.77" width="40" height="40"/>
+  <object name="Hammer" type="Hammer" x="1066.09" y="1248.87" width="40" height="40"/>
+ </objectgroup>
+</map>

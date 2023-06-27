@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="25" height="25" tilewidth="59" tileheight="59">
+ <tileset firstgid="1" name="itemmap" tilewidth="59" tileheight="59">
+  <image source="tileset2.png" trans="ff00ff" width="354" height="354"/>
+ </tileset>
+ <layer name="BackGround" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eJy9lQsLgzAMhCOiOGQv9///q5M1cLtdatzKCoeP2Hy9pra9mfV/UFc0BNpiUevpmfs641zhjzAGFjKmcsU4Muai+1O3ct8RxyAHemMfHfRXDBTmUByM49ingKE0QM6Iwz6c44xT4GNMcjxf5HEKGB7PcJARcWZioMcsp/aOx4A1a81RDJ/LVhxkjPY+z638+DPHWnFwrsw+18ivHK65v2vph9cuMiLO0XXg/xwz9jhH/UQMxRnsOw7KGdeAg4wsZ/sGzyX2wXs3MzL1UTXHps4H7MfnjOLw2lWqMRbL7aNqv8J6ZHzs1Uf9g6xFMFS72Ks+D5GjNlcttQJgHwee
+  </data>
+ </layer>
+ <objectgroup name="RobotCharacter">
+  <object name="Player" type="Player" x="65.0719" y="1362.95" width="40" height="40"/>
+ </objectgroup>
+ <objectgroup name="EnemyCharacter">
+  <object name="Shipper" type="Shipper" x="1071.03" y="302.99" width="40" height="40"/>
+  <object name="Hammer" type="Hammer" x="832.049" y="1365.29" width="40" height="40"/>
+  <object name="Shipper" type="Shipper" x="593.462" y="1248.88" width="40" height="40"/>
+  <object name="Roller" type="Roller" x="1013.58" y="70.0743" width="40" height="40"/>
+  <object name="Shipper" type="Shipper" x="360.89" y="1016.68" width="40" height="40"/>
+  <object name="Shipper" type="Shipper" x="1184.69" y="1015.68" width="40" height="40"/>
+  <object name="Hammer" type="Hammer" x="66.5627" y="1012.28" width="40" height="40"/>
+  <object name="Shipper" type="Shipper" x="597.137" y="187.412" width="40" height="40"/>
+  <object name="Shipper" type="Shipper" x="1069.77" y="602.237" width="40" height="40"/>
+  <object name="Shipper" type="Shipper" x="711.044" y="598.837" width="40" height="40"/>
+  <object name="Shipper" type="Shipper" x="425.427" y="301.319" width="40" height="40"/>
+  <object name="Roller" type="Roller" x="887.937" y="68.8889" width="40" height="40"/>
+ </objectgroup>
+</map>

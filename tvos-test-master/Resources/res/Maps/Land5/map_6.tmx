@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="25" height="25" tilewidth="59" tileheight="59">
+ <tileset firstgid="1" name="itemmap" tilewidth="59" tileheight="59">
+  <image source="tileset2.png" trans="ff00ff" width="354" height="354"/>
+ </tileset>
+ <layer name="BackGround" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eJzFluEKwyAMhFMEKXTU0b3/u47+CBzhomlqt8BRRfEzibEWESk/0AJqpq+q0F6hvRHp3I9hiLM2ah/w32SM+aF63ZRlVIeRNcZgfiND50X7yjgcBvMjy0A/8Jx4jJFZxiaxnGdNGZUwMPcsVl6MIrGK+NGLlx3rMbTGGjAK+dq9268yGszr1Uck39afSKzqBD903//IB965s8/VE/fVWR8r8aN3X43sbp1n7iuvzmczvHywWF21K7Ga+R/EtQ+HmRUy2PldhL87Ttn3AXvPYM6f1heA2wev
+  </data>
+ </layer>
+ <objectgroup name="RobotCharacter">
+  <object name="Player" x="118" y="118" width="40" height="40"/>
+ </objectgroup>
+ <objectgroup name="EnemyCharacter">
+  <object name="Tanker" type="Tanker" x="424.75" y="242" width="40" height="40"/>
+  <object name="Shipper" type="Shipper" x="1012.75" y="247.75" width="40" height="40"/>
+  <object name="Tanker" type="Tanker" x="947.661" y="605.779" width="40" height="40"/>
+  <object name="Tracker" type="Tracker" x="890.237" y="835.61" width="40" height="40"/>
+  <object name="Tanker" type="Tanker" x="1194.75" y="840.75" width="40" height="40"/>
+  <object name="Tanker" type="Tanker" x="1014.16" y="952.983" width="40" height="40"/>
+  <object name="Hammer" type="Hammer" x="477.424" y="1067.17" width="40" height="40"/>
+  <object name="Tracker" type="Tracker" x="560" y="1191" width="40" height="40"/>
+  <object name="Hammer" type="Hammer" x="1187.56" y="1126.77" width="40" height="40"/>
+  <object name="Shipper" type="Shipper" x="1070.98" y="1188.98" width="40" height="40"/>
+  <object name="Tanker" type="Tanker" x="1187.56" y="305.78" width="40" height="40"/>
+  <object name="Tanker" type="Tanker" x="835.192" y="242.307" width="40" height="40"/>
+ </objectgroup>
+</map>

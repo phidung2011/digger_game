@@ -1,0 +1,212 @@
+{
+	"map1": {
+        "bomb": 0,
+        "timebomb": 0,
+        "mine": 0,
+        "rocket": 0,
+        "fuel": 80,
+        "diamond": 29,
+        "enemy": 0,
+        "time": 600
+    },
+    "map2": {
+        "bomb": 1,
+        "timebomb": 1,
+        "mine": 1,
+        "rocket": 1,
+        "fuel": 30,
+        "diamond": 45,
+        "enemy": 10,
+        "time": 400
+    },
+    "map3": {
+        "bomb": 3,
+        "timebomb": 3,
+        "mine": 3,
+        "rocket": 3,
+        "fuel": 50,
+        "diamond": 20,
+        "enemy": 8,
+        "time": 600
+    },
+    "map4": {
+        "bomb": 0,
+        "timebomb": 0,
+        "mine": 0,
+        "rocket": 0,
+        "fuel": 80,
+        "diamond": 12,
+        "enemy": 5,
+        "time": 600
+    },
+    "map5": {
+        "bomb": 2,
+        "timebomb": 1,
+        "mine": 1,
+        "rocket": 0,
+        "fuel": 60,
+        "diamond": 24,
+        "enemy": 7,
+        "time": 300
+    },
+    "map6": {
+        "bomb": 0,
+        "timebomb": 0,
+        "mine": 0,
+        "rocket": 0,
+        "fuel": 30,
+        "diamond": 0,
+        "enemy": 25,
+        "time": 250
+    },
+    "map7": {
+        "bomb": 5,
+        "timebomb": 5,
+        "mine": 3,
+        "rocket": 0,
+        "fuel": 30,
+        "diamond": 38,
+        "enemy": 19,
+        "time": 450
+    },
+    "map8": {
+        "bomb": 0,
+        "timebomb": 0,
+        "mine": 0,
+        "rocket": 0,
+        "fuel": 50,
+        "diamond": 45,
+        "enemy": 9,
+        "time": 240
+    },
+    "map9": {
+        "bomb": 1,
+        "timebomb": 1,
+        "mine": 1,
+        "rocket": 0,
+        "fuel": 25,
+        "diamond": 20,
+        "enemy": 13,
+        "time": 300
+    },
+    "map10": {
+        "bomb": 1,
+        "timebomb": 1,
+        "mine": 1,
+        "rocket": 1,
+        "fuel": 30,
+        "diamond": 30,
+        "enemy": 8,
+        "time": 180
+    },
+    "map11": {
+        "bomb": 0,
+        "timebomb": 0,
+        "mine": 0,
+        "rocket": 0,
+        "fuel": 80,
+        "diamond": 29,
+        "enemy": 0,
+        "time": 600
+    },
+    "map12": {
+        "bomb": 1,
+        "timebomb": 1,
+        "mine": 1,
+        "rocket": 1,
+        "fuel": 30,
+        "diamond": 45,
+        "enemy": 10,
+        "time": 400
+    },
+    "map13": {
+        "bomb": 3,
+        "timebomb": 3,
+        "mine": 3,
+        "rocket": 3,
+        "fuel": 50,
+        "diamond": 20,
+        "enemy": 8,
+        "time": 600
+    },
+    "map14": {
+        "bomb": 0,
+        "timebomb": 0,
+        "mine": 0,
+        "rocket": 0,
+        "fuel": 80,
+        "diamond": 12,
+        "enemy": 5,
+        "time": 600
+    },
+    "map15": {
+        "bomb": 2,
+        "timebomb": 1,
+        "mine": 1,
+        "rocket": 0,
+        "fuel": 60,
+        "diamond": 24,
+        "enemy": 7,
+        "time": 300
+    },
+    "map16": {
+        "bomb": 0,
+        "timebomb": 0,
+        "mine": 0,
+        "rocket": 0,
+        "fuel": 30,
+        "diamond": 0,
+        "enemy": 25,
+        "time": 250
+    },
+    "map17": {
+        "bomb": 5,
+        "timebomb": 5,
+        "mine": 3,
+        "rocket": 0,
+        "fuel": 30,
+        "diamond": 38,
+        "enemy": 19,
+        "time": 450
+    },
+    "map18": {
+        "bomb": 0,
+        "timebomb": 0,
+        "mine": 0,
+        "rocket": 0,
+        "fuel": 50,
+        "diamond": 45,
+        "enemy": 9,
+        "time": 240
+    },
+    "map19": {
+        "bomb": 1,
+        "timebomb": 1,
+        "mine": 1,
+        "rocket": 0,
+        "fuel": 25,
+        "diamond": 20,
+        "enemy": 13,
+        "time": 300
+    },
+    "map20": {
+        "bomb": 1,
+        "timebomb": 1,
+        "mine": 1,
+        "rocket": 1,
+        "fuel": 30,
+        "diamond": 30,
+        "enemy": 8,
+        "time": 180
+    },
+    "map21": {
+        "bomb": 1,
+        "timebomb": 1,
+        "mine": 1,
+        "rocket": 1,
+        "fuel": 30,
+        "diamond": 30,
+        "enemy": 8,
+        "time": 180
+    }
+}
